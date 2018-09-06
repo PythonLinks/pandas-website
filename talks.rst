@@ -4,8 +4,13 @@
 ***********************************************
 
 `The best Pandas Videos <https://PythonLinks.info/pandas>`__ are part of the `The best Python Videos <https://PythonLinks.info>`__ web site.  It is a nand curated taxonomy of Python videos, organized as a tree
-of categories, and ranked by up votes versus down votes.  You can watch the introductory video
-`here <https://PythonLinks.info/introductory-video>`__.
+of categories, and ranked by up votes versus down votes.  I invite you to watch the 
+`introductory video <https://PythonLinks.info/introductory-video>`__.
+
+If you are looking for still more Pandas talks, as of September 5, 2018,  `PyVideo.org <https://pyvideo.org>`__ has 
+`99 Pandas Videos <https://pyvideo.org/search.html?q=pandas>`__ from 2013 - 1017 (but only 1 from 2018).  
+
+
  
 ***************
  Pandas Papers
